@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>foo</name>
+  <version>0.0.0</version>
+  <description>The foo package</description>
+
+  <maintainer email="jacob@todo.todo">jacob</maintainer>
+
+  <license>TODO</license>
+
+  <depend>roscpp</depend>
+  <depend>foo_msgs</depend>
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <export>
+  </export>
+</package>
